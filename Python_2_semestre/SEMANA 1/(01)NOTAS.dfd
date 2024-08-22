@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+num3
+1
+0
+6
+1
+4
+nota
+1
+0
+4
+1
+19
+'Ingresa tus notas'
+5
+1
+14
+num1,num2,num3
+6
+1
+4
+nota
+18
+(num1+num2+num3)/3
+7
+1
+1
+10
+nota>=10.5
+4
+1
+29
+'Aprobaste tu nota es: ',nota
+13
+4
+1
+37
+'Sigue intentando, tu nota es: ',nota
+13
+1

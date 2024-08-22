@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+1
+21
+'Ingrese dos numeros'
+5
+1
+9
+num1,num2
+7
+0
+1
+37
+(num1 mod 2 = 0) and (num2 mod 2 = 0)
+4
+1
+23
+'Los numeros son pares'
+13
+4
+1
+25
+'Los numeros son impares'
+13
+1

@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+9
+descuento
+6
+15/100
+13
+precioInicial
+1
+0
+4
+1
+19
+'Ingrese el precio'
+5
+1
+13
+precioInicial
+6
+2
+11
+desc_precio
+23
+descuento*precioInicial
+11
+precioFinal
+25
+precioInicial-desc_precio
+4
+1
+34
+'El precio final es: ',precioFinal
+1

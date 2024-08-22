@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+edad
+1
+0
+7
+nombre 
+2
+''
+6
+genero
+2
+''
+4
+1
+17
+'Ingresar nombre'
+4
+1
+15
+'Ingresar edad'
+4
+1
+17
+'Ingresar genero'
+5
+1
+18
+edad,nombre,genero
+7
+0
+1
+18
+genero='Masculino'
+4
+1
+27
+'no eres de sexo masculino'
+13
+7
+0
+1
+8
+edad>=18
+4
+1
+43
+'eres de sexo masculino pero menor de edad'
+13
+4
+1
+63
+'Eres de genero',genero,'Tu nombre es',nombre,'Tu edad es',edad
+13
+13
+1

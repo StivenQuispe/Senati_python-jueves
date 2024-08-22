@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+n1
+1
+0
+2
+n2
+1
+0
+2
+n3
+1
+0
+6
+2
+2
+n4
+1
+0
+2
+n5
+1
+0
+4
+1
+19
+'Ingrese 5 numeros'
+5
+1
+14
+n1,n2,n3,n4,n5
+6
+3
+4
+suma
+5
+n1+n4
+14
+multiplicacion
+5
+n2*n5
+4
+raiz
+8
+sqrt(n3)
+4
+1
+29
+'La suma de n1 y n4 es:',suma
+4
+1
+50
+'La multilplicacion de n2 y n5 es:',multiplicacion
+4
+1
+21
+'La raiz de n3:',raiz
+1
